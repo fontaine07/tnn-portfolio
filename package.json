@@ -2,7 +2,7 @@
   "name": "tnn-portfolio",
   "version": "0.1.0",
   "hompage": "https://fontaine07.github.io/tnn-portfolio",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@ant-design/icons": "^5.3.0",
     "@testing-library/jest-dom": "^5.17.0",
