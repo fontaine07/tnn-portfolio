@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.615d7a92.css",
+    "main.js": "/static/js/main.35dec4f6.js",
+    "static/js/453.3970a003.chunk.js": "/static/js/453.3970a003.chunk.js",
+    "static/media/8.jpg": "/static/media/8.67a0828f823715c28903.jpg",
+    "static/media/5.jpg": "/static/media/5.37ccece4bc86941246be.jpg",
+    "static/media/6.jpg": "/static/media/6.6a97b7c125528b930b46.jpg",
+    "static/media/10.jpg": "/static/media/10.b8bd0b0d0e3123c46922.jpg",
+    "static/media/9.jpg": "/static/media/9.6fa6dad78e03abdc671b.jpg",
+    "static/media/MascotYue.png": "/static/media/MascotYue.25fdd144fa73950d0b86.png",
+    "static/media/tdfa.png": "/static/media/tdfa.87efd2926fddbc89081d.png",
+    "static/media/1.jpg": "/static/media/1.e72ec5193e51f414fa22.jpg",
+    "static/media/2.jpg": "/static/media/2.bfc48daa1e894fce7e60.jpg",
+    "static/media/ovw.png": "/static/media/ovw.8a32c855bd61fa9677d2.png",
+    "static/media/3.jpg": "/static/media/3.1454298141d4981e4983.jpg",
+    "static/media/laptop.png": "/static/media/laptop.f713eeeb4dbab2c5c50c.png",
+    "static/media/gsd.png": "/static/media/gsd.002918fcda2270a39461.png",
+    "static/media/4.jpg": "/static/media/4.766a20e89be28a571a33.jpg",
+    "static/media/lightbulb.png": "/static/media/lightbulb.ea2321aab84c23773d4a.png",
+    "static/media/figma.png": "/static/media/figma.de9ddc6c2c43c542a17e.png",
+    "static/media/7.jpg": "/static/media/7.5651dc7009d4db21ba8e.jpg",
+    "static/media/mail.png": "/static/media/mail.8021ff704cb0422fa6f7.png",
+    "static/media/car-web.png": "/static/media/car-web.a55d2d5597a7dd804aa2.png",
+    "static/media/github.png": "/static/media/github.ba57b0e0a8e0600a63e3.png",
+    "static/media/img6.png": "/static/media/img6.f3aa7827cd5160f3fc1c.png",
+    "static/media/logo.png": "/static/media/logo.5608fd8c8ab419efe027.png",
+    "static/media/img5.png": "/static/media/img5.76536eb2b86398277df3.png",
+    "static/media/img7.png": "/static/media/img7.f5abc244362b5136dc0e.png",
+    "static/media/discord.png": "/static/media/discord.d437d824dc068f075720.png",
+    "static/media/fb.png": "/static/media/fb.a513153a6855034c765c.png",
+    "static/media/img4.png": "/static/media/img4.20adfb35ae6a6e5817bf.png",
+    "static/media/csp.png": "/static/media/csp.bdccfc3599f535697c55.png",
+    "index.html": "/index.html",
+    "main.615d7a92.css.map": "/static/css/main.615d7a92.css.map",
+    "main.35dec4f6.js.map": "/static/js/main.35dec4f6.js.map",
+    "453.3970a003.chunk.js.map": "/static/js/453.3970a003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615d7a92.css",
+    "static/js/main.35dec4f6.js"
+  ]
+}
