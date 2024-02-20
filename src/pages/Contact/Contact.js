@@ -1,6 +1,6 @@
 import React from 'react'
 import fb from "../../assets/images/fb.png"
-import twitter from "../../assets/images/twitter.png"
+import github from "../../assets/images/github.png"
 import mail from "../../assets/images/mail.png"
 import discord from "../../assets/images/discord.png"
 import laptop from "../../assets/images/laptop.png"
@@ -19,13 +19,15 @@ const Contact = () => {
                     </div>
                     <div className="contact-box">
                         <div className="contact-img">
-                            <img src={twitter} alt="" class="contact-icons" />
+                            <img src={github} alt="" class="contact-icons" />
                         </div>
+                        <p>fontaine07</p>
                     </div>
                     <div class="contact-box">
                         <div class="contact-img">
                             <img src={fb} alt="" class="contact-icons" />
                         </div>
+                        <p>fb.com/delafontaine07</p>
                     </div>
                     <div class="contact-box">
                         <div class="contact-img">

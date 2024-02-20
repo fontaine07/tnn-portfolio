@@ -45,7 +45,7 @@ const Hero = () => {
               <div className="content-wrap">
                 <div className="content-body">
                   <h2 className='outlined-title'>2D Artist</h2>
-                  <p>Creating character concept arts for novels and games.</p>
+                  <p>Creating character concept arts and commissioned illustrations.</p>
                 </div>
                 <img src={mascot} alt="" />
               </div>

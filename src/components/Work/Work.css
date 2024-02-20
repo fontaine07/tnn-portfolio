@@ -1,5 +1,5 @@
 .project-section {
-    padding: 92px 0;
+    padding: 92px 50px;
     box-shadow: 5px 5px 5px #181328;
     min-height: 100vh;
   }
@@ -35,7 +35,7 @@
     width: 72%;
     margin: 0 auto;
     border-radius: 50px;
-    background-color: rgb(255 255 255 / 10%);
+    background-color: rgba(255, 255, 255, 0.1);
     overflow: hidden;
   }
   .project-section .nav.nav-pills .nav-item {
@@ -60,7 +60,7 @@
       position: absolute;
       width: 0;
       height: 100%;
-      background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+      background: linear-gradient(90deg, #EA37A3 0%, #7e61e7 100%);
       top: 0;
       left: 0;
       z-index: -1;
@@ -106,6 +106,15 @@
   .proj-imgbx:hover::before {
     height: 100%;
   }
+
+  .proj-img{
+    object-fit: cover;
+    background-size: auto;                    
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+  }
+
   .proj-txtx {
     position: absolute;
     text-align: center;    
@@ -141,4 +150,12 @@
     font-weight: 400;
     font-size: 15px;
     letter-spacing: 0.8px;
+  }
+
+  @media (max-width: 850px){
+    .project-section .nav.nav-pills .nav-link { 
+      padding: 16px 0;
+      font-size: 15px;
+      letter-spacing: 0.8px;
+    }
   }
